@@ -2,11 +2,9 @@
 
 > All class projects
 
-
-
 ## Projects
 
-- [X] Homework 01
+- [X] ~~Homework 01~~
 - [ ] Homework 02
 - [ ] Homework 03
 - [ ] Homework 04
