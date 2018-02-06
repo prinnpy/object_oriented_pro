@@ -1,6 +1,4 @@
 # DataHW
-
-*******************************************************
 *  Name      :  Prinn Prinyanut
 *  Student ID:  103379393
 *  Class     :  CSCI 2421
