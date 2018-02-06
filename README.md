@@ -1,9 +1,8 @@
-# DataHW
-*  Name      :  Prinn Prinyanut
-*  Student ID:  103379393
-*  Class     :  CSCI 2421
-*  Due Date  :  Feb. 1, 2018
-*******************************************************
+# Data Structure Projects
+
+## Class
+- CSCI 2421: Data Struc & Program Design
+*************************
 *******************************************************
 *  Description of the program
 *******************************************************
