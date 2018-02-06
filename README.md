@@ -1,11 +1,8 @@
-# Data Structure Projects
+# CSCI 2421: Data Struc & Program Design
 
-**Class:**
-CSCI 2421: Data Struc & Program Design
+> All class projects
 
-*******************************************************
+## Projects:
 
-**Projects:**
-
-- [ ] Homework 01
+- [X] Homework 01
 - [ ] Homework 02
