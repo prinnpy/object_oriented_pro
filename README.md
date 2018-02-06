@@ -1,7 +1,7 @@
 # Data Structure Projects
 
-## Class
-- CSCI 2421: Data Struc & Program Design
+Class: 
+> CSCI 2421: Data Struc & Program Design
 *************************
 *******************************************************
 *  Description of the program
