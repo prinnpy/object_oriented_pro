@@ -7,5 +7,5 @@
 
 **Projects:**
 
-[] Homework 01
-[] Homework 02
+[ ] Homework 01
+[ ] Homework 02
