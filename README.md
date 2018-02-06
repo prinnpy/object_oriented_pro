@@ -1,5 +1,10 @@
 # Homework 01
-> 
+> A simple number guessing game that asks user for numbers of random integers
+and max range. Then generate random numbers based on user inputs. Asks users
+to guess numbers. Compare guess numbers to random generate numbers.
+If all guess numbers match random generate numbers, user wins. User only have 3 tries.
+
+## Screenshot
 
 
 
