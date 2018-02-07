@@ -6,9 +6,7 @@
 
 **Go to different branches:**
 
-- [X] ~~Homework 01~~
-- [X] ~~Homework 02~~
-- [ ] Homework 03
-- [ ] Homework 04
-- [ ] Homework 05
-- [ ] Homework 06
+HW01: [Homework 01 Repo](https://github.com/prinnpy/object_oriented_pro/tree/HW01)
+
+HW02: [Homework 02 Repo](https://github.com/prinnpy/object_oriented_pro/tree/HW02)
+
