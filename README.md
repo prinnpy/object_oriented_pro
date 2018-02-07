@@ -27,7 +27,7 @@ C++
 Download and the entire folder, then run it on Xcode.
 
 ```sh
-Don't include makefile!!
+Go into OPP HW02 to run the whole project
 ```
 
 ## Release History
