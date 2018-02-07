@@ -7,14 +7,19 @@ If all guess numbers match random generate numbers, user wins. User only have 3 
 
 ## Screenshot
 
-<img src="https://github.com/prinnpy/data_structure/blob/HW01/DataHW01.png" width="600">
+<img src="https://github.com/prinnpy/data_structure/blob/HW01/DataHW01.png" width="700">
+
+## Language
+```sh
+C++
+```
 
 ## Files
-
-- main.cpp 
-- guess.cpp 
-- guess.h
-
+```sh
+• main.cpp 
+• guess.cpp 
+• guess.h
+```
 ## Development setup
 
 Download and add files to new Xcode project, then run.
@@ -25,18 +30,20 @@ Don't include makefile!!
 
 ## Release History
 
-* **0.2.1**
-    * DONE: finished project
-* **0.2.0**
-    * ADD: Clean up code
-    * ADD: Add print function
-* **0.1.2**
-    * ADD: generate_ran, user_input, and compare_num functions
-    * CHANGE: change guess struct to guess class
-* **0.1.0**
-    * ADD: created guess struct
-* **0.0.1**
-    * first commit
+```sh
+0.2.1
+   - DONE: finished project
+0.2.0
+   - ADD: Clean up code
+   - ADD: Add print function
+0.1.2
+   - ADD: generate_ran, user_input, and compare_num functions
+   - CHANGE: change guess struct to guess class
+0.1.0
+   - ADD: created guess struct
+0.0.1
+   - first commit
+```
 
 ## Let's Connect!
 
