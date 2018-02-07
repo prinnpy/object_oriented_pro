@@ -1,3 +1,4 @@
+
 # Homework 01
 > A simple number guessing game that asks user for numbers of random integers
 and max range. Then generate random numbers based on user inputs. Asks users
@@ -5,43 +6,43 @@ to guess numbers. Compare guess numbers to random generate numbers.
 If all guess numbers match random generate numbers, user wins. User only have 3 tries.
 
 ## Screenshot
+<img src="https://github.com/prinnpy/data_structure/blob/HW01/DataHW01.png" width="600">
 
+## Files
 
+- main.cpp 
+- guess.cpp 
+- guess.h
 
+## Development setup
 
-*******************************************************
-*  Description of the program
-*******************************************************
+Download and add files to new Xcode project, then run.
 
-A simple number guessing game that asks user for numbers of random integers
-and max range. Then generate random numbers based on user inputs. Asks users
-to guess numbers. Compare guess numbers to random generate numbers.
-If all guess numbers match random generate numbers, user wins. User only have 3 tries.
+```sh
+Don't include makefile!!
+```
 
-*******************************************************
-*  Source files
-*******************************************************
+## Release History
 
-Name: main.cpp
-   Main program. This is the driver program that create a Guess class object
-   calls play. Then it calls one of its method called welcomeScreen that will print
-   welcome messages. Then it calls playGame function, which runs the entire program.
+* **0.2.1**
+    * DONE: finished project
+* **0.2.0**
+    * ADD: Clean up code
+    * ADD: Add print function
+* **0.1.2**
+    * ADD: generate_ran, user_input, and compare_num functions
+    * CHANGE: change guess struct to guess class
+* **0.1.0**
+    * ADD: created guess struct
+* **0.0.1**
+    * first commit
 
-Name: guess.h
-   Contains the definition for the class guess.
+## Info
 
-Name: guess.cpp
-   Defines and implements the guess class for implementing a guessing logic.
-   This class provides functions for generating random numbers, push back user
-   guesses into vector, comparing user guesses to generated numbers, welcome screen
-   print, inputs validation, and play game function which is a main function that controls everything.
+Instagram: [@prinnpy](https://www.instagram.com/prinnpy)
 
+Email: prinnprinyanut@gmail.com or prinn.prinyanut@ucdenver.edu
 
-*******************************************************
-*  Status of program
-*******************************************************
+Github: [github.com/prinnpy](https://github.com/prinnpy)
 
-   The program runs successfully.
-
-   The program was developed and tested on Xcode g++.  It was
-   compiled, run, and tested on csegrid.ucdenver.pvt.
+Website: [COMING SOON!]
