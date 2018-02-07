@@ -6,6 +6,7 @@ to guess numbers. Compare guess numbers to random generate numbers.
 If all guess numbers match random generate numbers, user wins. User only have 3 tries.
 
 ## Screenshot
+
 <img src="https://github.com/prinnpy/data_structure/blob/HW01/DataHW01.png" width="600">
 
 ## Files
@@ -37,7 +38,7 @@ Don't include makefile!!
 * **0.0.1**
     * first commit
 
-## Info
+## Let's Connect!
 
 Instagram: [@prinnpy](https://www.instagram.com/prinnpy)
 
