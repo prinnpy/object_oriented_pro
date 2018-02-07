@@ -7,7 +7,7 @@ If all guess numbers match random generate numbers, user wins. User only have 3 
 
 ## Screenshot
 
-<img src="https://github.com/prinnpy/data_structure/blob/HW01/DataHW01.png" width="700">
+<img src="https://github.com/prinnpy/data_structure/blob/HW01/DataHW01.png" width="650">
 
 ## Language
 ```sh
