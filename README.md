@@ -9,8 +9,7 @@ where both of the compared grids contain a ‘1’ and has a ‘0’ in any othe
 
 ## Screenshot
 
-<img src="https://media.giphy.com/media/1k0AphNwlh8QAVwWXg/giphy.gif" width="350">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/1k0AphNwlh8QAVwWXg/giphy.gif" width="300">
 
 ## Language
 ```sh
