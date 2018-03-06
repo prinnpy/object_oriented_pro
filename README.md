@@ -9,7 +9,7 @@ where both of the compared grids contain a ‘1’ and has a ‘0’ in any othe
 
 ## Screenshot
 
-<img src="https://github.com/prinnpy/object_oriented_pro/blob/HW03/hw03.mov" width="350">
+<img src="https://media.giphy.com/media/1k0AphNwlh8QAVwWXg/source.mp4" width="350">
 
 ## Language
 ```sh
