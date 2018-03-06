@@ -1,11 +1,10 @@
 
 # Homework 03
-> Build two grids which are each X wide and Y long where X and Y are user inputs to determine
-the size of the grids. Fill each cell of both grids with a ‘0’. Randomly fill 1/3 of the grid’s cells
-with a ‘1’. Randomly fill each of the two grids separately so they do not have the all of
-the same squared filled with a ‘1’. Compare the two grids (square by square comparison) to
-find squares which have a ‘1’ in both grids. Create a third grid which contains a ‘1’ in squares
-where both of the compared grids contain a ‘1’ and has a ‘0’ in any other square.
+> A program that allows input of the ship length, grid location, and orientation. 
+Assume the grid where the submarine is to be placed is a 10 by 10 grid and is 
+indexed as described in Assignment 1. Randomly generate 15 torpedo shots in 
+the main of the program, output the shot grid locations to the screen, and then 
+output whether the torpedo hit any ship and if it did, whether that ship was sunk. 
 
 ## Screenshot
 
