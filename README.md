@@ -16,4 +16,8 @@ HW04: [Homework 04 Repo](https://github.com/prinnpy/object_oriented_pro/tree/HW0
 
 HW05: [Homework 05 Repo](https://github.com/prinnpy/object_oriented_pro/tree/HW05)
 
+HW06: [Homework 06 Repo](https://github.com/prinnpy/object_oriented_pro/tree/HW06)
+
+HW07: [Homework 07 Repo](https://github.com/prinnpy/object_oriented_pro/tree/HW07)
+
 
