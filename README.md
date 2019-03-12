@@ -20,4 +20,6 @@ HW06: [Homework 06 Repo](https://github.com/prinnpy/object_oriented_pro/tree/HW0
 
 HW07: [Homework 07 Repo](https://github.com/prinnpy/object_oriented_pro/tree/HW07)
 
+Final Project: [Final Project](https://github.com/prinnpy/object_oriented_pro/tree/Final-Project-Battleship-Game)
+
 
